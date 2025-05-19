@@ -7,11 +7,13 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+
 <div align="center">
-  <a href="https://linkedin.com/in/c-luoai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
-  </a>
+  <a href="https://linkedin.com/in/c-luoai" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" /></a><a href="https://devpost.com/cluo0005" target="_blank"><img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003E54&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Devpost badge" /></a><a href="https://www.youtube.com/@cluo0005" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube badge" /></a><a href="https://www.instagram.com/cluo0005/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram badge" /></a>
 </div>
+
+
+
 <h3 align="center">A passionate AI & XR Innovator</h3>
 
 

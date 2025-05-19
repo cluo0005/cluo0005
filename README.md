@@ -42,6 +42,15 @@
 📱 Mobile Development
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> </p>
 
+📱 Mobile Development  
+<p align="left">
+  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Apple_logo_black.svg" alt="apple" width="40" height="40"/>
+  </a>
+  <a href="https://swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://swift.org/assets/images/swift.svg" alt="swift" width="40" height="40"/>
+  </a>
+</p>
 
 ###
 

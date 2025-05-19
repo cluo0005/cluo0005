@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **building AI agent to develop mobile app**
 
-- 👯 I’m looking to collaborate on **Meadowverse: VR platform blends immersive meditation with AI guidance 🤖and multilingual features, creating a personalized wellness experience**
+- 👯 I’m looking to collaborate on **Meadowverse: a VR platform that blends immersive meditation with AI guidance and multilingual features, creating a personalized wellness experience**
 
 </p>
 
